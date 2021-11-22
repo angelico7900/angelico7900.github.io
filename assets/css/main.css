@@ -345,6 +345,16 @@ input, select, textarea {
 	visibility: visible;
 
 }
+.centrar{
+	width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
+}
+#main div a{
+	margin-bottom: 5%;
+
+
+}
 	.row {
 		display: flex;
 		flex-wrap: wrap;
